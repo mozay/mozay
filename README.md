@@ -1,4 +1,4 @@
-<h3>I am Mehmet and I am an addicted Android Developer from Turkey, Istanbul 🇹🇷</h3>
+<h3>I am Mehmet and I am an Android Developer from Istanbul 🇹🇷</h3>
 
 - 🔭 I’m currently working at **Intertech as Android Developer**
 
