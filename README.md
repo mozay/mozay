@@ -1,6 +1,6 @@
-<h3>I am an Android Developer from Istanbul 🇹🇷</h3>
+<h3>I am an Android/iOS Developer from Istanbul 🇹🇷</h3>
 
-- 🔭 I’m currently working at **Intertech as Android Developer**
+- 🔭 I’m currently working at **NeoHub as Senior Mobile Developer**
 
 - 📫 How to reach me **mehmetozay94@gmail.com**
 
