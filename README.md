@@ -1,4 +1,4 @@
-<h3>I am an Android/iOS Developer from Istanbul 🇹🇷</h3>
+<h3>I am an Senior Android/iOS Developer from Istanbul 🇹🇷</h3>
 
 - 🔭 I’m currently working at **NeoHub as Senior Mobile Developer**
 
