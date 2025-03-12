@@ -10,5 +10,3 @@
  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="kotlin" width="60" height="50"/> <a href="https://www.swift.org/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png" alt="swift" width="50" height="50"/> 
 </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mozay&layout=compact)
-
